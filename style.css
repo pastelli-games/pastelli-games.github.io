@@ -1,8 +1,13 @@
+@font-face {
+    font-family: "rahlscript";
+    src: url("/fonts/rahlscript.otf") format("opentype");
+}
 body{
     background-color: black;
 }
 h1,
 p{
+    font-family: 'rahlscript';
     color: rgb(172, 133, 209)
 }
 h1{
@@ -16,15 +21,15 @@ h1{
     background-position: none;
     background-repeat: no-repeat;
     background-size: contain;
-    height: 600px;
-    width: 600px;
+    height: 500px;
+    width: 700px;
     margin: 0px;
 }
 .strobatron {
-    background:url("https://pastelli-games.github.io/img/blueback.gif");
+    background:url("https://pastelli-games.github.io/img/blueback1.gif");
     background-position: none;
     background-repeat: repeat;
     background-size: none;
-    height: 64px;
-    width: 64px;
+    height:32px;
+    width: 32px;
 }
