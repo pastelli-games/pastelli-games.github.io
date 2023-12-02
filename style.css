@@ -1,6 +1,6 @@
 @font-face {
     font-family: "rahlscript";
-    src: url("/fonts/rahlscript.otf") format("opentype");
+    src: url("https://pastelli-games.github.io/fonts/rahlscript.otf") format("opentype");
 }
 body{
     background-color: black;
